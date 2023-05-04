@@ -21,7 +21,7 @@ msgInicial: 	.asciiz "Programa Ackermann\n"
 mensagem: 	.asciiz "Digite os par�metros m e n para calcular A(m, n) ou -1 para abortar a execu��o:\n "
 mensagemM: 	.asciiz "m: "
 mensagemN: 	.asciiz "n: "
-
+print_A:	.word			
 mF:		.word	0
 nF:		.word	0
 
